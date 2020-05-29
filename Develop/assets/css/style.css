@@ -13,7 +13,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*  I combined these classes into article tags that are more straight forward */
 article {
     margin-bottom: 32px;
     color: #ffffff;
@@ -24,12 +24,12 @@ article h3 {
     text-align: center;
 }
 
-article img {
+aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* I decided that an aside was more appropriate for this side bar */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -40,7 +40,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Changed these two to match the change to the last div */
 footer {
     padding: 30px;
     clear: both;
@@ -52,6 +52,7 @@ footer h2 {
     font-size: 20px;
 }
 
+/* Changed these three to match the changed div for the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -68,6 +69,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Changed this to match the change to the div in index */
 main {
     width: 75%;
     display: inline-block;
@@ -98,6 +100,26 @@ p {
 small {
     font-size: 16px;
 }
+
+
+section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+section img {
+    max-height: 200px;
+}
+
+section h2 {
+        margin-bottom: 20px;
+        font-size: 36px;
+}
+
 
 .hero {
     height: 800px;
