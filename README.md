@@ -14,9 +14,16 @@ No installation required. Open as webpage in a web browser.
 
 This is a more accessible version that is Ease of Access friendly.
 
+Screen shots of the webpage
 ![screen cap 1](./screenshot1.png)
 ![screen cap 2](./screenshot2.png)
 ![screen cap 3](./screenshot3.png)
+
+Sample screen shot of the code
+![screen cap 4](./screenshot4.png)
+
+Sample screen shot of the css
+![screen cap 5](./screenshot5.png)
 
 
 ## Credits
