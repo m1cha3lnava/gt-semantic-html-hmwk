@@ -76,6 +76,7 @@ main {
     margin-left: 20px;
 }
 
+/* Changed this to match the change to the div in index */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -101,7 +102,7 @@ small {
     font-size: 16px;
 }
 
-
+/* Changed these divs to section to match the formatting in the html file */
 section {
     margin-bottom: 20px;
     padding: 50px;
